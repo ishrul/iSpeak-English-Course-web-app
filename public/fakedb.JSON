@@ -6,6 +6,18 @@
     "teacher": "Sam Johnson"
   },
   {
+    "name": "Spanish Language",
+    "price": 45,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTcTkUg6Y_3pIIuPXGLELt7ZTV3pTChTMvg&usqp=CAU",
+    "teacher": "SAM JOHNSON"
+  },
+  {
+    "name": "German Language Basic",
+    "price": 78,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5QqD0SkMg7NJ31-q8Cv7efZauZMTOat8MQ&usqp=CAU",
+    "teacher": "Emma Wattson"
+  },
+  {
     "name": "Online Learning",
     "price": 35,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURiR9dHgTjZAPu708z5C4kTa_sIE3kur0UA&usqp=CAU",
