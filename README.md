@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# website name: iSpeak
 
-This project was bootstrapped with [English Learning App](https://awesome-bhaskara-927b60.netlify.app/).
+This project was bootstrapped with [iSpeak](https://awesome-bhaskara-927b60.netlify.app/).
 
 ## Available Scripts
 
