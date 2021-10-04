@@ -14,6 +14,7 @@ function App() {
       <Router>
         <div>
           <Switch>
+            {/* all route for go one page to another page without reloading */}
             <Route path="/services">
               <Services />
             </Route>

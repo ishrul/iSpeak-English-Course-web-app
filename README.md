@@ -6,7 +6,7 @@ This project was bootstrapped with [English Learning App](https://awesome-bhaska
 
 In the project directory,
 
-### Inshallah you can use any state (route) without loading. and i think it will give you a best experience.
+### Inshallah you can use any page (route) without loading. and i think it will give you a best experience.
 
 ### you can also know details about our course.
 

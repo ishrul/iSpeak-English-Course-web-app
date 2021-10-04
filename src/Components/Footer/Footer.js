@@ -1,7 +1,6 @@
 import React from "react";
 import "./Footer.css";
 import {
-  ArrowRight,
   Printer,
   Facebook,
   Twitter,
@@ -13,6 +12,7 @@ import {
 const Footer = () => {
   return (
     <div>
+      {/* full footer part */}
       <footer className="flex-rw pt-5 pb-3">
         <ul className="footer-list-top">
           <li>

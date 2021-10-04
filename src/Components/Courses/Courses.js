@@ -4,6 +4,7 @@ import "./Courses.css";
 
 const Courses = () => {
   const [courses, setCourses] = useState([]);
+  // data load
   useEffect(() => {
     fetch("./fakedb.JSON")
       .then((res) => res.json())

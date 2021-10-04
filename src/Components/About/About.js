@@ -9,6 +9,7 @@ const About = () => {
   return (
     <div>
       <Navigation />
+      {/* teachers */}
       <div className="text-center text-light">
         <br />
         <h1>
@@ -17,6 +18,7 @@ const About = () => {
         <br />
       </div>
       <Teachers />
+      {/* video */}
       <div className="my-5">
         <div className="text-center text-light">
           <h1>

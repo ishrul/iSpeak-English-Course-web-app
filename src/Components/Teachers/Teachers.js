@@ -5,6 +5,7 @@ import "./Teachers.css";
 const Teachers = () => {
   return (
     <div>
+      {/* teachers part */}
       <CardGroup>
         <Card>
           <Card.Img
