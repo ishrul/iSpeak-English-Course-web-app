@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+}
+.navigation {
+  color: white;
+  margin-left: 8vh;
+  font-size: 20px;
+  transition: 0.3s ease-in-out;
+}
+.navigation:hover {
+  background-color: rgb(184, 177, 177);
+  padding: 10px;
+  font-weight: 800;
+  border-radius: 10px;
+  transition: 0.3s ease-in-out;
+}
+.navigation-div {
+  margin-left: 85vh;
+}

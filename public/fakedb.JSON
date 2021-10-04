@@ -1,0 +1,38 @@
+[
+  {
+    "name": "English for Beginners",
+    "price": 25,
+    "image": "https://ld-wt73.template-help.com/tf/ispeak/images/single-tour-2-355x359.jpg",
+    "teacher": "Sam Johnson"
+  },
+  {
+    "name": "Online Learning",
+    "price": 35,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURiR9dHgTjZAPu708z5C4kTa_sIE3kur0UA&usqp=CAU",
+    "teacher": "Emma Wattson"
+  },
+  {
+    "name": "English for Business",
+    "price": 45,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEr7mmu9KqvLR1Zr7BO9AIkoFN44xPBtTFEw&usqp=CAU",
+    "teacher": "Emma Wattson"
+  },
+  {
+    "name": "English for Kids",
+    "price": 24,
+    "image": "https://image.shutterstock.com/image-vector/vector-illustration-little-kid-holding-260nw-672357235.jpg",
+    "teacher": "Sam Johnson"
+  },
+  {
+    "name": "English Pronunciation and Speaking Course",
+    "price": 57,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjLXWhGFPEEhaSbeTsisbTZi6Z4k8ooTo8IQ&usqp=CAU",
+    "teacher": "jhon Smith"
+  },
+  {
+    "name": "Reading and Vocabulary Course.",
+    "price": 65,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoO_vqTQx8E56aNFRll5wBPIUEfHeBxJOOQ&usqp=CAU",
+    "teacher": "jhon Smith"
+  }
+]
